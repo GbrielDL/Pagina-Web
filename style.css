@@ -104,8 +104,7 @@ h3 {
 }
 
 .img2 {
-    margin: 0px 0 0 680px;
-    margin-top: -45%;
+    margin: -445px 0 0 680px;
     width: 300px; 
     height: 459px;
     background-color: #00011A;
@@ -133,7 +132,7 @@ h3 {
     gap: 230px;
 }
 .imagem1 {
-    margin: 35px 690px 0 0;
+    margin: 35px 590px 0 0;
     cursor: default;
 }
 .imagem2 {
