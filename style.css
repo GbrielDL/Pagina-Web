@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+body {
+    margin: 20px 180px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.w {
+    cursor: default;
+    font-family: serif;
+    font-weight: 900;
+    font-size: 3em;
+}
+.paragrafo {
+    margin-left: 125px;
+    margin-top: -140px;
+}
+.paragrafo2 {
+    margin-left: 125px;
+    margin-right: 0;
+}
+.paragrafo3 {
+    margin-left: 125px;
+    margin-right: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    opacity: 50%;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+#button {
+    background-color: #F05C51;
+    border: none;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: white;
+    width: 170px;
+    height: 40px;
+    cursor: pointer;
+    margin: 50px 0 0 0;
+}
+#button:hover {
+    background-color: #a13e37;
+    transition: 0.5s;
+    border: none;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: white;
+    width: 170px;
+    height: 40px;
+    cursor: pointer;
+    margin: 50px 0 0 0;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 40px;
+    width: 300px;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.textoinicial {
+    width: 310px;
+    font-family: sans-serif;
+    margin: -180px 0 0 300px;
+}
+.barra {
+    display: flex;
+}
+
+.barra > ul {
+    margin-top: 32.160px;
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin-left: 205px;
+    margin-top: 60px;
+}
+
+.new {
+    margin: 0;
+    color: #c79861;
+    margin-left: 15px;
+    padding-top: 20px;
+    font-weight: 600;
+}
+.textodaimagem {
+    color: rgba(255, 255, 255, 0.63);
+    margin-left: 15px;
+}
+h3 {
+    color: white;
+    margin-left: 15px;
+}
+.img1 {
+    margin-bottom: -15px;
+}
+
+.img2 {
+    margin: 0px 0 0 680px;
+    margin-top: -45%;
+    width: 300px; 
+    height: 459px;
+    background-color: #00011A;
+}
+.paragrafo01 {
+    margin-left: -55px;
+    margin-top: -155px;
+}
+.paragrafo02 {
+    margin-left: -55px;
+    margin-right: 0;
+}
+.paragrafo03 {
+    margin-left: -55px;
+    margin-right: 0;
+}
+.baixodomain {
+    margin: 80px 0 80px 0;
+}
+
+.baixodomain > ol {
+    display: flex;
+    list-style: none;
+    margin-left: -40px;
+    gap: 230px;
+}
+.imagem1 {
+    margin: 35px 690px 0 0;
+    cursor: default;
+}
+.imagem2 {
+    margin: -144px 0 0 320px;
+    cursor: default;
+}
+.imagem3 {
+    margin: -144px 0 100px 679px;
+    width: 400px;
+    cursor: default;
+}
